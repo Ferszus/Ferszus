@@ -1,7 +1,11 @@
 ### Hi there 👋
 
+![lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferszus&layout=compact&count_private=true&langs_count=10&theme=github_dark&count_private=true&hide=nix,ruby,html)
+
 <!--
 **Ferszus/Ferszus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
