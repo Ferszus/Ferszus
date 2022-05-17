@@ -1,21 +1,5 @@
-### Hi there 👋
-
-#### ✨ A beginner front-end developer with a passion for programming and a desire to expand my qualifications. ✨
-
-- 🔭 I’m currently working on my work portfolio, and i'm looking for my first job 💼
-- 📫 Get in houch with me via: hubparylak2@gmail.com
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-
-![lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferszus&layout=compact&count_private=true&langs_count=10&theme=radical&count_private=true&hide=nix,ruby)
-
-
 <h1 align="center">Hi 👋, I'm Hubert</h1>
-<h3 align="center">A passionate frontend developer from Poland </h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferszus&label=Profile%20views&color=0e75b6&style=flat" alt="ferszus" /> </p>
 
@@ -28,7 +12,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hubert parylak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hubert parylak" height="30" width="40" /></a>
-<a href="https://discord.gg/_hvbii#1069" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_hvbii#1069" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
