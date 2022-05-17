@@ -19,4 +19,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ferszus&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="ferszus" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ferszus&show_icons=true&theme=dracula&locale=en" alt="ferszus" /></p>
