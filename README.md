@@ -5,7 +5,7 @@
 
 - 🔭 **I’m currently working on my work portfolio, and i'm looking for my first job 💼**
 
-- 👨‍💻 [https://hubdevport.000webhostapp.com](https://hubdevport.000webhostapp.com/)
+- 👨‍💻 [http://bociano.ovh/](http://bociano.ovh/)
 
 - 📫 **hubparylak2@gmail.com**
 
