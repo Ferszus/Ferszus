@@ -22,5 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ferszus&show_icons=true&theme=dracula&locale=en" alt="ferszus" /></p>
 
-<h3 align="left">Support:</h3>
 
